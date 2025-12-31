@@ -2,10 +2,13 @@
 This repository contains my notes on Physics and Mathematics. I want to 
 understand more about General Relativity and Quantum Field Theory.
 
-------
+## Study Plan
+My [STUDYPLAN](STUDYPLAN.md) outlines the subjects that I study in an
+order that leads to a better understanding of GR and QFT. Links to notes 
+will be added as I work through the plan.
 
-
-See https://arxiv.org/pdf/1703.09738
+## Progress
+See [PROGRESS](PROGRESS.md) for updates on my progress.
 
 ## Motivation
 
@@ -62,7 +65,3 @@ If you are reading this, you are likely on a similar path. I hope
 these notes prove useful, or at least relatable, as I work toward 
 understanding the deep structure underlying spacetime and quantum fields.
 
-## Study Plan
-My [Study Plan](STUDYPLAN.md) outlines the subjects that I study in an
-order that leads to a better understanding of GR and QFT. Links to notes 
-will be added as I work through the plan.
