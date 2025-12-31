@@ -1,0 +1,16 @@
+[project]
+name = "physics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gravipy>=0.2.0",
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.5.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.0",
+    "pandas>=2.3.3",
+    "scipy>=1.16.3",
+    "sympy>=1.14.0",
+]
