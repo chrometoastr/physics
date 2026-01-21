@@ -16,3 +16,13 @@ will be added as I work through the plan.
 
 ## Progress
 See [PROGRESS](PROGRESS.md) for updates on my progress.
+
+## Starting Jupyter Notebook
+
+First checkout the repository and execute:
+
+`uv sync`
+
+and then
+
+`uv run jupyter lab`
