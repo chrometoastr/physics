@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: require-progress-update
+        name: Require PROGRESS.md update
+        entry: scripts/check_progress_update.sh
+        language: system
+        stages: [commit]

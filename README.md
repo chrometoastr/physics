@@ -17,6 +17,13 @@ will be added as I work through the plan.
 ## Progress
 See [PROGRESS](PROGRESS.md) for updates on my progress.
 
+### Git Hooks
+This repo uses `pre-commit` to enforce a PROGRESS update per commit.
+
+`uv add --dev pre-commit`
+
+`uv run pre-commit install`
+
 ## Starting Jupyter Notebook
 
 First checkout the repository and execute:
